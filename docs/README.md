@@ -17,6 +17,7 @@ Communication and quality assurance are embedded in cadence and tooling: daily s
 - [Risk Management & Communication](octoacme-risks-and-communication.md)
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
-- [Roles and Personas](octoacme-roles-and-personas.md)
+- [Role Handoff Checklist](octoacme-role-handoff-checklist.md)
 
+_Add new process docs to this index as they are created. Keep the Project One‑pager and release notes updated in the project repo as the single source of truth._
 _Add new process docs to this index as they are created. Keep the Project One‑pager and release notes updated in the project repo as the single source of truth._
