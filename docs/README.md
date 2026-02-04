@@ -21,3 +21,5 @@ Communication and quality assurance are embedded in cadence and tooling: daily s
 
 _Add new process docs to this index as they are created. Keep the Project One‑pager and release notes updated in the project repo as the single source of truth._
 _Add new process docs to this index as they are created. Keep the Project One‑pager and release notes updated in the project repo as the single source of truth._
+
+https://github.com/jfgamerobejines-rgb/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4
